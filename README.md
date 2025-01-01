@@ -3,15 +3,11 @@
 Welcome to my GitHub profile! I'm a passionate developer always looking to learn and grow. Here's a little about me:
 
 ## 🚀 About Me
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [Technologies or Skills You're Learning]
-- 👯 I’m looking to collaborate on [Projects or Open Source Contributions]
-- 🤔 I’m looking for help with [Areas Where You Need Help]
-- 💬 Ask me about [Your Areas of Expertise]
-- 📫 How to reach me: [Your Contact Information]
-- ⚡ Fun fact: [A Fun Fact About You]
-
-## 🛠️ Technologies & Tools
+- 🌱 I’m currently learning Backend Development
+- 👯 I’m looking to collaborate
+- 💬 Ask me about Full Stack Web Development
+-
+- ## 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-00599C?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
@@ -33,7 +29,6 @@ Welcome to my GitHub profile! I'm a passionate developer always looking to learn
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourlinkedinprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/yourtwitterhandle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ojaswi-bhardwaj-962393281)
 
 Thanks for visiting my profile, and feel free to reach out if you want to connect!
