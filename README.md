@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer always looking to learn
 
 ![Python](https://img.shields.io/badge/-Python-00599C?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
 ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock)
