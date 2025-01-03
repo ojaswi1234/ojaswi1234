@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm a passionate developer always looking to learn
 - 🌱 I’m currently learning Backend Development
 - 👯 I’m looking to collaborate
 - 💬 Ask me about Full Stack Web Development
--
-- ## 🛠️ Technologies & Tools
+
+## 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-00599C?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
