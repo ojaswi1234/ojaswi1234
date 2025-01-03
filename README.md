@@ -13,8 +13,12 @@ Welcome to my GitHub profile! I'm a passionate developer always looking to learn
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 
