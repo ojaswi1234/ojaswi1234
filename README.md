@@ -23,6 +23,9 @@ Welcome to my GitHub profile! I'm a passionate developer always looking to learn
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 ## 📈 GitHub Stats
 
 ![Ojaswi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojaswi1234&show_icons=true&theme=radical)
