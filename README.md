@@ -31,7 +31,6 @@ Welcome to my GitHub profile! I'm a passionate developer always looking to learn
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ojaswi1234&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ojaswi1234&theme=radical)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ojaswi1234&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-![Ojaswi's Activity Graph](https://activity-graph.herokuapp.com/graph?username=ojaswi1234&theme=radical)
 
 ## 🔗 Connect with Me
 
