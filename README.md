@@ -1,6 +1,6 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There,+I+am+Ojaswi+👋;Welcome+to+my+GitHub+profile!+I'm+a+passionate+developer+always+looking+to+learn+and+grow.)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There,+I+am+Ojaswi+👋;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
-Welcome to my GitHub profile! I'm a passionate developer always looking to learn and grow. Here's a little about me:
+ I'm a passionate developer always looking to learn and grow. Here's a little about me:
 
 ## 🚀 About Me
 - 🌱 I’m currently learning Backend Development
