@@ -37,7 +37,7 @@
 
 ## Leetcode Badges
 
-[![LeetCode](https://your-image-host/rotating-leetcode.gif)](https://leetcode.com/ojaswideep2020/)
+[![LeetCode](https://github.com/edent/SuperTinyIcons/blob/master/images/svg/leetcode.svg?raw=true)](https://leetcode.com/ojaswideep2020/)
 
 
 ## 🔗 Connect with Me
