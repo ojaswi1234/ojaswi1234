@@ -37,7 +37,7 @@
 
 ## Leetcode Badges
 
-![https://leetcode-badge-showcase.vercel.app/api?username=Ojaswideep2020&theme=light&border=border&animated=true] 
+[![LeetCode](https://your-image-host/rotating-leetcode.gif)](https://leetcode.com/ojaswideep2020/)
 
 
 ## 🔗 Connect with Me
