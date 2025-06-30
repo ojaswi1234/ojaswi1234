@@ -35,7 +35,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ojaswi1234&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-## Leetcode Badges
+## Leetcode
 
 [![LeetCode](https://leetcard.jacoblin.cool/ojaswideep2020?theme=light&animation=true)](https://leetcode.com/ojaswideep2020/)
 
