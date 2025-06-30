@@ -34,6 +34,12 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ojaswi1234&theme=radical)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ojaswi1234&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+## Leetcode Badges
+
+![LeetCode Badge](https://img.shields.io/badge/LeetCode-ojaswideep2020-orange)
+
+
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ojaswi-bhardwaj-962393281)
