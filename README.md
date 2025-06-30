@@ -37,7 +37,7 @@
 
 ## Leetcode Badges
 
-![LeetCode Badge](https://img.shields.io/badge/LeetCode-ojaswideep2020-orange)
+![https://leetcode-badge-showcase.vercel.app/api?username=Ojaswideep2020&theme=light&border=border&animated=true] 
 
 
 ## 🔗 Connect with Me
