@@ -37,7 +37,7 @@
 
 ## Leetcode Badges
 
-[![LeetCode](https://github.com/edent/SuperTinyIcons/blob/master/images/svg/leetcode.svg?raw=true)](https://leetcode.com/ojaswideep2020/)
+[![LeetCode](https://leetcard.jacoblin.cool/ojaswideep2020?theme=light&animation=true)](https://leetcode.com/ojaswideep2020/)
 
 
 ## 🔗 Connect with Me
