@@ -34,6 +34,12 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ojaswi1234&theme=radical)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ojaswi1234&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
+## 🔥 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NirajDN&theme=react-dark&area=true&hide_border=true" />
+</p>
+
 
 ## Leetcode
 
