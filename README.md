@@ -44,7 +44,7 @@
 ## Leetcode
 
 [![LeetCode](https://leetcard.jacoblin.cool/ojaswideep2020?theme=light&animation=true)](https://leetcode.com/ojaswideep2020/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-ojaswideep2020-orange?style=flat-square&logo=leetcode)](https://leetcode.com/ojaswideep2020/)
+[![50 Days of Code](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7931E&width=435&lines=50+Days+of+Code+%F0%9F%94%A5;LeetCode%3A+ojaswideep2020)](https://leetcode.com/ojaswideep2020/)
 
 
 ## 🔗 Connect with Me
