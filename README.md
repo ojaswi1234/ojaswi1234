@@ -44,7 +44,10 @@
 ## Leetcode
 
 [![LeetCode](https://leetcard.jacoblin.cool/ojaswideep2020?theme=light&animation=true)](https://leetcode.com/ojaswideep2020/)
-[![50 Days of Code](YOUR_BADGE.gif)](https://leetcode.com/ojaswideep2020/)
+<tr>
+    <td align="center"><img src="Media/Badges/Annual-Medals/PNG/2024-50-lg.png" width="200"></td>
+    <td align="center">50 Days Badge 2024</td>
+</tr>
 
 
 
