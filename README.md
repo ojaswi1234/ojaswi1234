@@ -47,8 +47,14 @@
 [![50 Days of Code](YOUR_BADGE.gif)](https://leetcode.com/ojaswideep2020/)
 
 
+
+
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ojaswi-bhardwaj-962393281)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ojaswi-bhardwaj-962393281)
+[![LeetCode](https://img.shields.io/badge/LeetCode-ojaswideep2020-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ojaswideep2020/)
+
+
+
 
 Thanks for visiting my profile, and feel free to reach out if you want to connect!
