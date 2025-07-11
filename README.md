@@ -66,6 +66,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-ojaswideep2020-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ojaswideep2020/)
 
 
+![GitHub Developer Program Member](https://img.shields.io/badge/GitHub%20Developer%20Program-Member-blue?logo=github)
 
 
 Thanks for visiting my profile, and feel free to reach out if you want to connect!
