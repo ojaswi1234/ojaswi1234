@@ -35,6 +35,14 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ojaswi1234&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🔥 GitHub Activity Graph
+<p align="center">
+  <a href="https://github.com/Ojaswi1234" title="Check out my GitHub profile!">
+    <img 
+      src="https://komarev.com/ghpvc/?username=Ojaswi1234&label=👁️+Profile+Views&color=brightgreen&style=for-the-badge" 
+      alt="Profile Views" 
+    />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ojaswi1234&theme=react-dark&area=true&hide_border=true" />
