@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning Backend Development
 - 👯 I’m looking to collaborate
 - 💬 Ask me about Full Stack Web Development
+- and yeah this is my portfolio, don't forget to visit it [Ojaswi's Portfolio](https://ojaswi-portfolio-kappa.vercel.app/)
 
 ## 🛠️ Technologies & Tools
 
