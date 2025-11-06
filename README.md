@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There,+This+is+Ojaswi+👋;Welcome+to+my+GitHub+profile!+You Know+What+...+ACTIONS+SPEAK+THEMSELVES)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F900&background=0D1117&center=true&lines=Hi+There,+This+is+Ojaswi+👋;Welcome+to+my+GitHub+profile!;You+Know+What+...;ACTIONS+SPEAK+THEMSELVES)](https://git.io/typing-svg)
 
  I'm a passionate developer always looking to learn and grow. Here's a little about me:
 
