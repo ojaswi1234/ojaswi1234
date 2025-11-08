@@ -17,20 +17,21 @@
 💡 *Currently deep-diving into backend architecture and exploring system design.*  
 ⚙️ *Crafting web experiences that feel alive.*  
 🕶️ *Always optimizing, always iterating.*  
+<p align="center">
+  <font color="#36BCF7"><b>PORTFOLIO</b></font>: 
+  <a href="https://ojaswi-portfolio-kappa.vercel.app/" target="_blank" style="color:#36BCF7;">
+    ojaswi-portfolio-kappa.vercel.app
+  </a>
+</p>
 
 </div>
 
 ---
-
 ### 🧩 SYSTEM.LOG
-- Loading profile info...
-- Learning: Backend Development
-- Collaboration: Open to new projects and challenges
-- Ask me about: Full Stack Web Development
-- Portfolio: https://ojaswi-portfolio-kappa.vercel.app/
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2200&pause=800&color=36BCF7&center=true&vCenter=true&width=850&lines=%3E+Initializing+System.LOG...;%3E+Loading+Profile+Info...;%E2%96%88%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92+Progress:+25%;%E2%96%88%E2%96%88%E2%96%88%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92+Progress:+50%%;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92%E2%96%92%E2%96%92%E2%96%92+Progress:+75%%;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+Profile+Loaded+Successfully!;%3E+Learning:+Backend+Development;%3E+Collaboration:+Open+to+New+Projects;%3E+Ask+me+about:+Full+Stack+Web+Development;%3E+%E2%9A%A1+Interests:+Building+Web+Apps+%7C+New+Frameworks+%7C+Tech+Security;%3E+Status:+Always+in+Dev+Mode+%F0%9F%94%A5" alt="System Log Animation" />
+</p>
 
-⚡ Interests: Building web apps | New frameworks | Tech security
-Status: Always in Dev Mode 
 ---
 
 ### ⚡ TECH ARSENAL
