@@ -169,14 +169,6 @@ Focus Areas:
 ---
 
 <div align="center">
-
-### 📫 Let's Connect
-
-[![Email](https://img.shields.io/badge/Email-ojaswideep2020@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ojaswideep2020@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+91--7840089727-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+917840089727)
-
----
-
 ![Profile Views](https://komarev.com/ghpvc/?username=ojaswi1234&color=58A6FF&style=flat-square&label=Profile+Views)
 
 *"Building performant applications that scale"* ⚡
