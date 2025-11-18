@@ -169,7 +169,6 @@ Focus Areas:
 ---
 
 <div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=ojaswi1234&color=58A6FF&style=flat-square&label=Profile+Views)
 
 *"Building performant applications that scale"* ⚡
 
