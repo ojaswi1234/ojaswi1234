@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Ojaswi Bhardwaj
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Real-Time+Systems+Specialist;Cross-Platform+Mobile+Developer;200%2B+LeetCode+Problems+Solved)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=#00FF00&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Real-Time+Systems+Specialist;Cross-Platform+Mobile+Developer;200%2B+LeetCode+Problems+Solved)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ojaswi-portfolio-kappa.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ojaswi-bhardwaj-962393281/)
