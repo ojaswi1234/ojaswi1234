@@ -68,11 +68,11 @@ const ojaswi = {
   <div style="background:#F3F8FF; padding:1.5em; border-radius:22px; box-shadow:0 4px 32px #38B6FF2b; margin-bottom:10px; display:inline-block;">
     <img src="https://raw.githubusercontent.com/ojaswi1234/ojaswi1234/main/images/userstats.svg" alt="GitHub Stats" width="900" style="border-radius:16px; box-shadow:0 2px 18px #38B6FF40;" />
     <br>
+    <br>
     <img src="https://img.shields.io/badge/commits-1K%2B-38B6FF?style=for-the-badge&logo=git" />
     <img src="https://img.shields.io/badge/contributions-200%2B-3ECF8E?style=for-the-badge" />
     <img src="https://img.shields.io/badge/activity-100%25-success?style=for-the-badge" />
-    <br>
-    <em style="color:#38B6FF; font-size: 14px;">Automated &amp; Styled by <a href="https://github.com/cicirello/user-statistician">User Statistician</a> · Updated daily</em>
+    
   </div>
 </div>
 
