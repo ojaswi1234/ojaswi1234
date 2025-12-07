@@ -1,9 +1,9 @@
-name: Generate GitHub Stats
+name: ✨ Generate & Style GitHub Stats SVG
 
 on:
   schedule:
     - cron: '0 0 * * *'     # Runs daily at midnight UTC
-  workflow_dispatch:         # Manual trigger
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -18,22 +18,25 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Update GitHub Stats Image
+      - name: Generate Ultra Stylish GitHub Stats SVG
         uses: cicirello/user-statistician@v1
         with:
           image-file: images/userstats.svg
           include-title: true
-          colors: light
+          custom-title: "Ojaswi's GitHub Overview 💡"
+          colors: rounded
+          background: "#F3F8FF"
+          accent-color: "#38B6FF"
           show-border: true
+          border-radius: 22
+          top-icon: github
           commit-and-push: true
-          commit-message: Automated update of GitHub stats
+          commit-message: "💡 Automated update: Stylish GitHub Stats SVG"
           fail-on-error: true
           locale: en
-          border-radius: 6
           small-title: false
           max-languages: auto
           category-order: general, repositories, contributions, languages
           animated-language-chart: false
           language-animation-speed: 10
-          image-width: 0
-          top-icon: default
+          image-width: 900
