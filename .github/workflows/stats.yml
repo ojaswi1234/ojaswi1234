@@ -9,6 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - name: Checkout repo
@@ -22,4 +23,14 @@ jobs:
           colors: light
           show-border: true
           commit-and-push: true
-          commit-message: "Automated update of GitHub stats"
+          commit-message: Automated update of GitHub stats
+          fail-on-error: true
+          locale: en
+          border-radius: 6
+          small-title: false
+          max-languages: auto
+          category-order: general, repositories, contributions, languages
+          animated-language-chart: false
+          language-animation-speed: 10
+          image-width: 0
+          top-icon: default
