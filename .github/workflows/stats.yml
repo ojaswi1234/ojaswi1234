@@ -2,8 +2,8 @@ name: Generate GitHub Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # Runs once daily at midnight UTC
-  workflow_dispatch:       # Allows manual trigger
+    - cron: '0 0 * * *'   # Runs daily at midnight UTC
+  workflow_dispatch:       # Manual trigger
 
 jobs:
   build:
@@ -15,13 +15,19 @@ jobs:
       - name: Run User Statistician
         uses: cicirello/user-statistician@v1
         with:
-          user: ojaswi1234
-          output: output   # Folder where SVGs will be saved
+          entryPoint: userstats
+          args: ojaswi1234
+          image-file: images/userstats.svg
+          include-title: true
+          colors: light
+          show-border: true
+          commit-and-push: true
+          commit-message: "Automated update of GitHub stats"
 
       - name: Commit and Push Stats
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/*.svg
+          git add images/*.svg
           git commit -m "Update GitHub stats"
           git push
