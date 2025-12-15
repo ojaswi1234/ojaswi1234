@@ -109,18 +109,6 @@ const ojaswi = {
 
 </td>
 </tr>
-
-#### 📝 [JUSTNOTES](https://github.com/ojaswi1234/justnotes)
-**Chrome Extension**
-
-`JavaScript` `Chrome APIs`
-
-- 🚀 Zero-latency local storage
-- 🎨 Markdown support
-- 🔒 100% private, no backend
-
-</td>
-</tr>
 </table>
 
 ---
