@@ -110,21 +110,6 @@ const ojaswi = {
 </td>
 </tr>
 
-<tr>
-<td width="50%">
-
-#### 🎬 [MOVIE_SPOT](https://github.com/ojaswi1234/movie-spot)
-**AI Movie Recommender**
-
-`Django` `TMDB API` `SQLite`
-
-- 🎯 **+40% accuracy** improvement
-- ⚡ **60% faster** API responses
-- 📚 10K+ movie records
-
-</td>
-<td width="50%">
-
 #### 📝 [JUSTNOTES](https://github.com/ojaswi1234/justnotes)
 **Chrome Extension**
 
