@@ -62,8 +62,9 @@ const ojaswi = {
 
 ---
 
+
 <div align="center">
-  <img src="./images/userstats.svg" alt="Terminal Stats" width="900"/>
+  <img src="./images/terminal-stats.svg" alt="GitHub Stats Terminal" width="900"/>
 </div>
 
 
