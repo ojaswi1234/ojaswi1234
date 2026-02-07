@@ -198,12 +198,17 @@
     <tspan class="scan-tag">[SCAN]</tspan>
     <tspan class="label" dx="10">Top Languages:</tspan>
     <tspan class="value" dx="10">Jupyter Notebook, JavaScript, HTML, TypeScript</tspan>
-  </text>
-  
+  </text>  
   <text class="mono-text line6" x="30" y="380">
     <tspan class="scan-tag">[SCAN]</tspan>
     <tspan class="label" dx="10">Performance:</tspan>
     <tspan class="warning" dx="10">OPTIMIZED ⚡ &lt;200ms</tspan>
+  </text>
+
+  <text class="mono-text line7" x="30" y="380">
+    <tspan class="scan-tag">[INFO]</tspan>
+    <tspan class="label" dx="10">My TECH STACK</tspan>
+    <tspan class="value" dx="10">Next.js, Flutter, Django, GCP, Docker, Alpine Linux, GraphQL/RESTful API, M.E.R.N, MongoDB, Supabase, Redis </tspan>
   </text>
   
   <text class="mono-text line7" x="30" y="410">
