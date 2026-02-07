@@ -222,7 +222,7 @@ const svgContent = `<svg width="900" height="600" xmlns="http://www.w3.org/2000/
   <text class="mono-text line7" x="30" y="410">
     <tspan class="scan-tag">[INFO]</tspan>
     <tspan class="label" dx="10">My TECH STACK</tspan>
-    <tspan class="value" dx="10">Next.js, Flutter, Django, GCP, Docker, Alpine Linux,<br/>GraphQL/RESTful API, M.E.R.N, MongoDB, Supabase, Redis </tspan>
+    <tspan class="value" dx="10">Next.js, Flutter, Redis, GCP, Docker, Alpine Linux, GraphQL/RESTful API </tspan>
   </text>
   
   <text class="mono-text line7" x="30" y="440">
@@ -238,10 +238,10 @@ const svgContent = `<svg width="900" height="600" xmlns="http://www.w3.org/2000/
   </text>
   
   <!-- Separator -->
-  <text class="mono-text separator bottom-sep" x="30" y="470">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</text>
+  <text class="mono-text separator bottom-sep" x="30" y="510">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</text>
   
   <!-- Achievement Badges -->
-  <text class="mono-text achievements" x="30" y="510">
+  <text class="mono-text achievements" x="30" y="560">
     <tspan class="label">🏆 Achievements:</tspan>
     <tspan class="value" dx="10">200+ LeetCode</tspan>
     <tspan class="separator" dx="10">|</tspan>
@@ -252,7 +252,7 @@ const svgContent = `<svg width="900" height="600" xmlns="http://www.w3.org/2000/
   
   <!-- Bottom Prompt with Blinking Cursor -->
   <g class="final-prompt">
-    <text class="mono-text prompt" x="30" y="555">$</text>
+    <text class="mono-text prompt" x="30" y="605">$</text>
     <rect class="cursor" x="50" y="543" width="10" height="16"/>
   </g>
   
