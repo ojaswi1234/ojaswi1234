@@ -70,37 +70,52 @@ const ojaswi = {
 
 ---
 
-### 🏆 Featured Projects
+## 🚀 Featured Projects
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 🔥 [ConnectUs](https://github.com/ojaswi1234/connectus)
+### 🔥 [ConnectUs](https://github.com/ojaswi1234/connectus)
 **Real-Time Chat Platform**
 
-`Flutter` `Supabase` `WebSockets`
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
 
-- ⚡ **<200ms latency** with optimized connections
-- 🔐 E2E encryption & offline-first architecture  
-- 📊 **95% server load** reduction via caching
+**Highlights:**
+- ⚡ Sub-200ms latency optimization
+- 🔐 End-to-end encryption
+- 📱 Offline-first architecture
+- 🎯 95% reduction in server load
+
+**Impact:** Seamless real-time communication for thousands of users
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### ♟️ [Two-Player Chess](https://github.com/ojaswi1234/two-player-chess)
-**Multiplayer Game Engine**
+### 📊 [DevOps Dashboard](https://github.com/ojaswi1234/devops-dashboard)
+**Server Health & CI/CD Monitor**
 
-`Node.js` `Socket.IO` `Express`
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-- 🎮 **Zero invalid moves** server-side validation
-- ⚡ **<50ms response** time per move
-- 🏅 ELO matchmaking system
+**Highlights:**
+- 📡 Real-time server metrics tracking
+- 🚀 Automated deployment pipelines
+- 🔔 Instant alerting system
+- 📈 CPU, memory & network monitoring
+
+**Impact:** 70% faster deployment cycles with zero-downtime releases
 
 </td>
 </tr>
 </table>
 
+</div>
 ---
 
 ### 📈 Contribution Activity
