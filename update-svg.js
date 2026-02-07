@@ -247,12 +247,12 @@ const svgContent = `<svg width="900" height="600" xmlns="http://www.w3.org/2000/
     <tspan class="separator" dx="10">|</tspan>
     <tspan class="value" dx="10">${stats.totalRepos} Projects</tspan>
     <tspan class="separator" dx="10">|</tspan>
-    <tspan class="value" dx="10">Real-Time Expert</tspan>
+    <tspan class="value" dx="10">Aspiring Real-Time System Developer</tspan>
   </text>
   
   <!-- Bottom Prompt with Blinking Cursor -->
   <g class="final-prompt">
-    <text class="mono-text prompt" x="30" y="605">$</text>
+    <text class="mono-text prompt" x="30" y="543">$</text>
     <rect class="cursor" x="50" y="543" width="10" height="16"/>
   </g>
   
