@@ -140,7 +140,7 @@
   <circle class="green-dot" cx="60" cy="20" r="6"/>
   
   <!-- Header Title -->
-  <text class="mono-text header-text" x="90" y="25">~/github/stats.sh</text>
+  <text class="mono-text header-text" x="90" y="25">~/github/stats.sh || Hi there !!, This is Ojaswi</text>
   
   <!-- Terminal Body -->
   <rect class="terminal-body" y="40" width="900" height="560" rx="0 0 12 12"/>
@@ -242,8 +242,5 @@
     <rect class="cursor" x="50" y="543" width="10" height="16"/>
   </g>
   
-  <!-- Footer Info -->
-  <text class="mono-text" x="30" y="585" style="fill: #565f89; font-size: 10px; opacity: 0; animation: fadeIn 0.3s ease-in forwards; animation-delay: 9.5s;">
-    Last updated: 2/7/2026 • Built with ❤️ and lots of ☕
-  </text>
+  
 </svg>
