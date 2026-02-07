@@ -227,7 +227,7 @@
   <text class="mono-text separator bottom-sep" x="30" y="510">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</text>
   
   <!-- Achievement Badges -->
-  <text class="mono-text achievements" x="30" y="560">
+  <text class="mono-text achievements" x="30" y="530">
     <tspan class="label">🏆 Achievements:</tspan>
     <tspan class="value" dx="10">200+ LeetCode</tspan>
     <tspan class="separator" dx="10">|</tspan>
