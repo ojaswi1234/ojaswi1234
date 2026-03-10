@@ -197,7 +197,7 @@
   <text class="mono-text line5" x="30" y="350">
     <tspan class="scan-tag">[SCAN]</tspan>
     <tspan class="label" dx="10">Top Languages:</tspan>
-    <tspan class="value" dx="10">JavaScript, Jupyter Notebook, HTML, TypeScript</tspan>
+    <tspan class="value" dx="10">Python, Java, JavaScript, C++, Dart</tspan>
   </text>  
   <text class="mono-text line6" x="30" y="380">
     <tspan class="scan-tag">[SCAN]</tspan>
