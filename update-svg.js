@@ -211,7 +211,7 @@ const svgContent = `<svg width="900" height="600" xmlns="http://www.w3.org/2000/
   <text class="mono-text line5" x="30" y="350">
     <tspan class="scan-tag">[SCAN]</tspan>
     <tspan class="label" dx="10">Top Languages:</tspan>
-    <tspan class="value" dx="10">${stats.topLanguages.slice(0, 4).join(', ')}</tspan>
+    <tspan class="value" dx="10">Python, Java, JavaScript, C++, Dart</tspan>
   </text>  
   <text class="mono-text line6" x="30" y="380">
     <tspan class="scan-tag">[SCAN]</tspan>
