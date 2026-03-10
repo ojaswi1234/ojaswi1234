@@ -58,29 +58,7 @@ jobs:
             const totalForks = repos.reduce((acc, repo) => acc + repo.forks_count, 0);
             
             // Get language stats
-            const languages = {};
-            for (const repo of repos) {
-              if (!repo.fork) {
-                try {
-                  const { data: repoLanguages } = await github.rest.repos.listLanguages({
-                    owner: username,
-                    repo: repo.name
-                  });
-                  
-                  for (const [lang, bytes] of Object.entries(repoLanguages)) {
-                    languages[lang] = (languages[lang] || 0) + bytes;
-                  }
-                } catch (error) {
-                  console.log(`Error fetching languages for ${repo.name}`);
-                }
-              }
-            }
-            
-            // Sort languages by usage
-            const topLanguages = Object.entries(languages)
-              .sort((a, b) => b[1] - a[1])
-              .slice(0, 5)
-              .map(([lang]) => lang);
+          
             
             // Fetch commit count (approximate from events)
             let totalCommits = 0;
@@ -124,7 +102,7 @@ jobs:
               totalForks: totalForks,
               totalCommits: totalCommits,
               totalContributions: totalContributions,
-              topLanguages: topLanguages,
+             
               followers: user.followers,
               updatedAt: new Date().toISOString(),
               profileViews: 0 // This would need external service
