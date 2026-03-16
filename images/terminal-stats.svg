@@ -185,13 +185,13 @@
   <text class="mono-text line3" x="30" y="290">
     <tspan class="info-tag">[INFO]</tspan>
     <tspan class="label" dx="10">Total Repositories:</tspan>
-    <tspan class="value" dx="10">51</tspan>
+    <tspan class="value" dx="10">46</tspan>
   </text>
   
   <text class="mono-text line4" x="30" y="320">
     <tspan class="info-tag">[INFO]</tspan>
     <tspan class="label" dx="10">Total Stars Earned:</tspan>
-    <tspan class="value" dx="10">21</tspan>
+    <tspan class="value" dx="10">19</tspan>
   </text>
   
   <text class="mono-text line5" x="30" y="350">
@@ -231,7 +231,7 @@
     <tspan class="label">🏆 Achievements:</tspan>
     <tspan class="value" dx="10">200+ LeetCode</tspan>
     <tspan class="separator" dx="10">|</tspan>
-    <tspan class="value" dx="10">51 Projects</tspan>
+    <tspan class="value" dx="10">46 Projects</tspan>
     <tspan class="separator" dx="10">|</tspan>
     <tspan class="value" dx="10">Aspiring Real-Time System Developer</tspan>
   </text>
