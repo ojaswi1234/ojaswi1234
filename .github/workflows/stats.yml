@@ -40,6 +40,11 @@ jobs:
             const fs = require('fs');
             const username = 'ojaswi1234';  // Your GitHub username
             
+            // Fetch current repository metadata (for numeric repo ID)
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+            const { data: repoData } = await github.rest.repos.get({ owner, repo });
+            
             // Fetch user data
             const { data: user } = await github.rest.users.getByUsername({
               username: username
@@ -97,6 +102,8 @@ jobs:
             // Create stats object
             const stats = {
               username: username,
+              repoId: repoData.id,
+              repoFullName: repoData.full_name,
               totalRepos: totalRepos,
               totalStars: totalStars,
               totalForks: totalForks,
