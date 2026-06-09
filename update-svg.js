@@ -243,7 +243,7 @@ const svgContent = `<svg width="900" height="600" xmlns="http://www.w3.org/2000/
   <!-- Achievement Badges -->
   <text class="mono-text achievements" x="30" y="530">
     <tspan class="label">🏆 Achievements:</tspan>
-    <tspan class="value" dx="10">200+ LeetCode</tspan>
+    <tspan class="value" dx="10">250+ LeetCode</tspan>
     <tspan class="separator" dx="10">|</tspan>
     <tspan class="value" dx="10">${stats.totalRepos} Projects</tspan>
     <tspan class="separator" dx="10">|</tspan>
