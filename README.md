@@ -18,12 +18,13 @@
 const ojaswi = {
     role: "Full-Stack Engineer",
     specialization: ["Real-Time Systems", "Mobile & Web Development", "Backend APIs"],
-    code: ["TypeScript", "JavaScript", "Python", "Java", "Dart"],
+    code: ["TypeScript", "JavaScript", "Python", "Dart"],
     technologies: {
         frontend: ["React", "Next.js", "Flutter"],
         backend: ["Node.js", "Django", "Express", "Socket.IO"],
-        databases: ["Supabase", "MongoDB", "MySQL", "PostgreSQL"],
-        cloud: ["GCP", "Firebase", "Vercel"]
+        databases: ["Supabase", "MongoDB", "MySQL", "PostgreSQL","Flutter Hive"],
+        cloud: ["GCP", "Firebase", "Vercel", "AWS"],
+        devops: ["Docker", "Kubernetes", "GitHub CI/CD", "Terraform", "Grafana"]
     },
     achievements: {
         leetcode: "250+ Problems Solved",
