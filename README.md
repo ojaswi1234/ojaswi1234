@@ -21,8 +21,8 @@ const ojaswi = {
     code: ["TypeScript", "JavaScript", "Python", "Dart"],
     technologies: {
         frontend: ["React", "Next.js", "Flutter"],
-        backend: ["Node.js", "Django", "Express", "Socket.IO"],
-        databases: ["Supabase", "MongoDB", "MySQL", "PostgreSQL","Flutter Hive"],
+        backend: ["Node.js", "Django", "Express", "RESTful/GraphQL API Design"],
+        databases: ["Redis", "Supabase", "MongoDB", "MySQL", "PostgreSQL","Flutter Hive"],
         cloud: ["GCP", "Firebase", "Vercel", "AWS"],
         devops: ["Docker", "Kubernetes", "GitHub CI/CD", "Terraform", "Grafana"]
     },
