@@ -191,7 +191,7 @@
   <text class="mono-text line4" x="30" y="320">
     <tspan class="info-tag">[INFO]</tspan>
     <tspan class="label" dx="10">Total Stars Earned:</tspan>
-    <tspan class="value" dx="10">19</tspan>
+    <tspan class="value" dx="10">20</tspan>
   </text>
   
   <text class="mono-text line5" x="30" y="350">
